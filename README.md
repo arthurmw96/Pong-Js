@@ -14,5 +14,7 @@ https://arthurmw96.github.io/Pong-Js/
 
 
 ### Futuras implementações:
-* Adicionar dificuldades ao jogo.
-* Tela inicial: Seleção de modo e instruções
+* Criar tela inicial do jogo
+* Adicionar modo P1 vs P2
+* Adicionar dificuldades diferentes para o modo P1 vs PC
+* Adicionar instruções
